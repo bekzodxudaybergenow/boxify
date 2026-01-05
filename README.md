@@ -1,4 +1,10 @@
-# .
+Netlify: [View]()
+
+Foydalanilgan texnologiyalar: Html, Css3 Javascript Vue3
+
+ 
+
+![boxify-photo](https://github.com/bekzodxudaybergenow/boxify/blob/master/src/assets/images/mockup.png)
 
 This template should help get you started developing with Vue 3 in Vite.
 
