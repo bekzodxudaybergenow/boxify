@@ -1,4 +1,4 @@
-Netlify: [View]()
+Netlify: [View](https://boxify-bb.netlify.app/)
 
 Foydalanilgan texnologiyalar: Html, Css3 Javascript Vue3
 
